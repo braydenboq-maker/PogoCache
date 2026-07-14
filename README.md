@@ -28,8 +28,8 @@ wiki, or any folder-based temporary note storage.
 ## Installation
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/pogo-cache.git
-cd pogo-cache
+git clone https://github.com/your-username/PogoCache.git
+cd PogoCache
 pip install -r requirements.txt
 ```
 
