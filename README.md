@@ -49,7 +49,7 @@ from the same page, independent of your main Google password.
 ## Configuration
 
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
 Then edit `.env`:
