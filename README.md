@@ -28,7 +28,7 @@ wiki, or any folder-based temporary note storage.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/PogoCache.git
+git clone https://github.com/braydenboq/PogoCache.git
 cd PogoCache
 pip install -r requirements.txt
 ```
